@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T19:24:24.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.7" etag="CkMLX328XWnF1csAyTzS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T19:55:36.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="-zAAB-ZLT-hQ2mga-Axw" version="24.2.7" type="github">
   <diagram name="Page-1" id="eV6vD9X3mPy9kxwLq2gk">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcU6XPb-YYQE_k6pm6Bs-1" target="FcU6XPb-YYQE_k6pm6Bs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-1" value="Make Capuccino" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcU6XPb-YYQE_k6pm6Bs-3" target="FcU6XPb-YYQE_k6pm6Bs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-9" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FcU6XPb-YYQE_k6pm6Bs-8">
+          <mxGeometry x="0.1667" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcU6XPb-YYQE_k6pm6Bs-3" target="FcU6XPb-YYQE_k6pm6Bs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-3" value="Ask if client&lt;div&gt;vegan&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-7" value="Use Almond Milk" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FcU6XPb-YYQE_k6pm6Bs-10" value="Use Regular MIlk" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
